@@ -1,0 +1,428 @@
+{
+  "siteFile": {
+    "/favicon.ico": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js"
+  },
+  "vuessr": {
+    "layout": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
+    "injectCss": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+    "doctype": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr\\config\\config.default.js",
+    "manifest": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr\\config\\config.default.js",
+    "injectHeadRegex": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr\\config\\config.default.js",
+    "injectBodyRegex": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr\\config\\config.default.js",
+    "injectJs": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr\\config\\config.default.js",
+    "injectRes": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr\\config\\config.default.js",
+    "crossorigin": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr\\config\\config.default.js",
+    "mergeLocals": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr\\config\\config.default.js",
+    "fallbackToClient": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr\\config\\config.default.js",
+    "viewEngine": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr\\config\\config.default.js",
+    "cache": {
+      "max": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr\\config\\config.default.js",
+      "maxAge": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr\\config\\config.default.js"
+    },
+    "renderOptions": {
+      "runInNewContext": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr\\config\\config.default.js"
+    },
+    "afterRender": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr\\config\\config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
+    "dir": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
+    "encoding": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "env": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "level": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "outputJSON": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "buffer": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "appLogName": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "coreLogName": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "agentLogName": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "errorLogName": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
+    "dir": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
+    "maxAge": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+    "dynamic": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+  },
+  "keys": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
+  "middleware": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
+  "security": {
+    "csrf": {
+      "ignoreJSON": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
+      "cookieName": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
+      "enable": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "type": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "useSession": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "sessionName": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "headerName": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "bodyName": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "queryName": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "refererWhiteList": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
+      "value": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+    "protocolWhiteList": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+    "hsts": {
+      "enable": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.local.js",
+      "maxAge": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "includeSubdomains": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "value": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "value": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "policy": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "checkAddress": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    }
+  },
+  "view": {
+    "cache": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+    "root": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "defaultExtension": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "mapping": {
+      ".js": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+    "ignoreDirs": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+    "fastReady": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "overrideDefault": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js"
+  },
+  "logview": {
+    "dir": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+    "prefix": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-logview@1.0.1@egg-logview\\config\\config.default.js",
+    "staticHost": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-logview@1.0.1@egg-logview\\config\\config.default.js"
+  },
+  "webpack": {
+    "webpackConfigList": {
+      "context": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+      "entry": {
+        "admin": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
+      },
+      "output": {
+        "filename": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+        "chunkFilename": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+        "path": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+        "publicPath": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
+      },
+      "resolve": {
+        "extensions": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+        "alias": {
+          "vue": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+          "asset": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+          "component": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+          "framework": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
+        }
+      },
+      "externals": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+      "resolveLoader": {
+        "modules": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
+      },
+      "mode": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+      "devtool": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+      "target": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+      "node": {
+        "console": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+        "Buffer": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+        "setImmediate": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
+      },
+      "module": {
+        "rules": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
+      },
+      "plugins": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+      "optimization": {
+        "namedModules": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+        "namedChunks": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+        "runtimeChunk": {
+          "name": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
+        },
+        "splitChunks": {
+          "name": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+          "chunks": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+          "minSize": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+          "minChunks": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+          "cacheGroups": {
+            "default": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+            "vendors": {
+              "name": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+              "chunks": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+              "minChunks": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+              "test": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
+            },
+            "styles": {
+              "name": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+              "chunks": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+              "minChunks": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+              "test": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+              "enforce": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+              "priority": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
+            }
+          }
+        }
+      }
+    },
+    "port": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-webpack@4.5.2@egg-webpack\\config\\config.default.js",
+    "proxy": {
+      "host": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-webpack@4.5.2@egg-webpack\\config\\config.default.js",
+      "match": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-webpack@4.5.2@egg-webpack\\config\\config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "key": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "httpOnly": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "encrypt": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js",
+      "development": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js",
+      "file": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "autoFields": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "fieldSize": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "fields": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "fileSize": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "files": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "whitelist": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "tmpdir": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-multipart@2.9.1@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+  },
+  "cors": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-cors@2.2.3@egg-cors\\config\\config.default.js",
+  "env": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "name": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "proxy": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "maxIpsCount": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "maxProxyCount": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "protocolHeaders": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "ipHeaders": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "hostHeaders": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "version": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "description": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "start": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "debug": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "clean": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "build": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "lint": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "fix": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "ii": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "axios": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "cross-env": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-bin": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-cors": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-logger": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-scripts": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-validate": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-view-vue-ssr": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "element-ui": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "extend": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "font-awesome": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "lodash": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "lodash-id": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "lowdb": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "mockjs": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "moment": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "shortid": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "showdown": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "simplemde": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "vue": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "vue-hot-reload-api": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "vue-i18n": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "vue-material-input": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "vue-router": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "vuex": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "vuex-router-sync": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "webpack-tool": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod-egg": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "easywebpack-cli": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "easywebpack-vue": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-logview": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-webpack": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "egg-webpack-vue": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "eslint": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "eslint-config-egg": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "eslint-plugin-vue": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "ip": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "less": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "less-loader": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "url": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    },
+    "author": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "license": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "homepage": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "webpack": {
+      "loaders": {
+        "less": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+      }
+    }
+  },
+  "baseDir": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "HOME": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "rundir": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "notFound": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "sitefile": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "middlewares": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "httpClient": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "encoding": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "formLimit": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "jsonLimit": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "textLimit": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "strict": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "depth": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "parameterLimit": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    },
+    "onerror": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "maxSockets": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "maxSockets": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "logging": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "workerStartTimeout": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "serverTimeout": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "port": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+      "hostname": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
+    "responseTimeout": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+  },
+  "onClientError": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
+}

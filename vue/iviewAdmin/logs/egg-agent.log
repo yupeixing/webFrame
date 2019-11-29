@@ -1,0 +1,10 @@
+2019-11-29 22:52:07,491 INFO 1820 [egg:logger] init all loggers with options: {"dir":"f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"iviewAdmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-11-29 22:52:07,506 INFO 1820 [egg:core] dump config after load, 9ms
+2019-11-29 22:52:07,557 INFO 1820 [egg-watcher] Start watching: ["f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\app","f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config","f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\mocks","f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\mocks_proxy","f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\app.js"]
+2019-11-29 22:52:07,557 INFO 1820 [egg-watcher] Start watching: "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\app"
+2019-11-29 22:52:07,558 INFO 1820 [egg-watcher] Start watching: "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config"
+2019-11-29 22:52:07,558 INFO 1820 [egg-watcher] Start watching: "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\mocks"
+2019-11-29 22:52:07,558 INFO 1820 [egg-watcher] Start watching: "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\mocks_proxy"
+2019-11-29 22:52:07,558 INFO 1820 [egg-watcher] Start watching: "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\app.js"
+2019-11-29 22:52:07,558 INFO 1820 [egg-watcher:agent] watcher start success
+2019-11-29 22:52:07,582 INFO 1820 [egg:core] dump config after ready, 19ms
