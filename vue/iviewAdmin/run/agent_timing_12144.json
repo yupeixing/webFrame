@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Application Start",
+    "start": 1575042491995,
+    "end": 1575042504733,
+    "duration": 12738,
+    "pid": 12144,
+    "index": 0
+  },
+  {
+    "name": "Load Plugin",
+    "start": 1575042492001,
+    "end": 1575042492428,
+    "duration": 427,
+    "pid": 12144,
+    "index": 1
+  },
+  {
+    "name": "Load Config",
+    "start": 1575042492428,
+    "end": 1575042503442,
+    "duration": 11014,
+    "pid": 12144,
+    "index": 2
+  },
+  {
+    "name": "Require(0) config/config.default.js",
+    "start": 1575042492431,
+    "end": 1575042492437,
+    "duration": 6,
+    "pid": 12144,
+    "index": 3
+  },
+  {
+    "name": "Require(1) config/config.local.js",
+    "start": 1575042492453,
+    "end": 1575042492456,
+    "duration": 3,
+    "pid": 12144,
+    "index": 4
+  },
+  {
+    "name": "Require(2) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "start": 1575042503148,
+    "end": 1575042503148,
+    "duration": 0,
+    "pid": 12144,
+    "index": 5
+  },
+  {
+    "name": "Require(3) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+    "start": 1575042503148,
+    "end": 1575042503155,
+    "duration": 7,
+    "pid": 12144,
+    "index": 6
+  },
+  {
+    "name": "Require(4) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "start": 1575042503156,
+    "end": 1575042503156,
+    "duration": 0,
+    "pid": 12144,
+    "index": 7
+  },
+  {
+    "name": "Require(5) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "start": 1575042503157,
+    "end": 1575042503157,
+    "duration": 0,
+    "pid": 12144,
+    "index": 8
+  },
+  {
+    "name": "Require(6) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "start": 1575042503157,
+    "end": 1575042503169,
+    "duration": 12,
+    "pid": 12144,
+    "index": 9
+  },
+  {
+    "name": "Require(7) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.default.js",
+    "start": 1575042503177,
+    "end": 1575042503177,
+    "duration": 0,
+    "pid": 12144,
+    "index": 10
+  },
+  {
+    "name": "Require(8) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-schedule@3.6.4@egg-schedule/config/config.default.js",
+    "start": 1575042503178,
+    "end": 1575042503178,
+    "duration": 0,
+    "pid": 12144,
+    "index": 11
+  },
+  {
+    "name": "Require(9) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-multipart@2.9.1@egg-multipart/config/config.default.js",
+    "start": 1575042503179,
+    "end": 1575042503190,
+    "duration": 11,
+    "pid": 12144,
+    "index": 12
+  },
+  {
+    "name": "Require(10) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js",
+    "start": 1575042503191,
+    "end": 1575042503201,
+    "duration": 10,
+    "pid": 12144,
+    "index": 13
+  },
+  {
+    "name": "Require(11) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "start": 1575042503202,
+    "end": 1575042503210,
+    "duration": 8,
+    "pid": 12144,
+    "index": 14
+  },
+  {
+    "name": "Require(12) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "start": 1575042503210,
+    "end": 1575042503211,
+    "duration": 1,
+    "pid": 12144,
+    "index": 15
+  },
+  {
+    "name": "Require(13) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
+    "start": 1575042503212,
+    "end": 1575042503216,
+    "duration": 4,
+    "pid": 12144,
+    "index": 16
+  },
+  {
+    "name": "Require(14) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+    "start": 1575042503227,
+    "end": 1575042503241,
+    "duration": 14,
+    "pid": 12144,
+    "index": 17
+  },
+  {
+    "name": "Require(15) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-cors@2.2.3@egg-cors/config/config.default.js",
+    "start": 1575042503242,
+    "end": 1575042503242,
+    "duration": 0,
+    "pid": 12144,
+    "index": 18
+  },
+  {
+    "name": "Require(16) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-webpack@4.5.2@egg-webpack/config/config.default.js",
+    "start": 1575042503242,
+    "end": 1575042503250,
+    "duration": 8,
+    "pid": 12144,
+    "index": 19
+  },
+  {
+    "name": "Require(17) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-webpack-vue@2.0.2@egg-webpack-vue/config/config.default.js",
+    "start": 1575042503251,
+    "end": 1575042503251,
+    "duration": 0,
+    "pid": 12144,
+    "index": 20
+  },
+  {
+    "name": "Require(18) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-logview@1.0.1@egg-logview/config/config.default.js",
+    "start": 1575042503252,
+    "end": 1575042503252,
+    "duration": 0,
+    "pid": 12144,
+    "index": 21
+  },
+  {
+    "name": "Require(19) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg@2.25.0@egg/config/config.default.js",
+    "start": 1575042503252,
+    "end": 1575042503263,
+    "duration": 11,
+    "pid": 12144,
+    "index": 22
+  },
+  {
+    "name": "Require(20) config/config.default.js",
+    "start": 1575042503267,
+    "end": 1575042503267,
+    "duration": 0,
+    "pid": 12144,
+    "index": 23
+  },
+  {
+    "name": "Require(21) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-security@2.7.1@egg-security/config/config.local.js",
+    "start": 1575042503269,
+    "end": 1575042503269,
+    "duration": 0,
+    "pid": 12144,
+    "index": 24
+  },
+  {
+    "name": "Require(22) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.local.js",
+    "start": 1575042503277,
+    "end": 1575042503277,
+    "duration": 0,
+    "pid": 12144,
+    "index": 25
+  },
+  {
+    "name": "Require(23) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-view@2.1.2@egg-view/config/config.local.js",
+    "start": 1575042503278,
+    "end": 1575042503279,
+    "duration": 1,
+    "pid": 12144,
+    "index": 26
+  },
+  {
+    "name": "Require(24) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.local.js",
+    "start": 1575042503279,
+    "end": 1575042503279,
+    "duration": 0,
+    "pid": 12144,
+    "index": 27
+  },
+  {
+    "name": "Require(25) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg@2.25.0@egg/config/config.local.js",
+    "start": 1575042503288,
+    "end": 1575042503289,
+    "duration": 1,
+    "pid": 12144,
+    "index": 28
+  },
+  {
+    "name": "Require(26) config/config.local.js",
+    "start": 1575042503290,
+    "end": 1575042503290,
+    "duration": 0,
+    "pid": 12144,
+    "index": 29
+  },
+  {
+    "name": "Load extend/agent.js",
+    "start": 1575042503443,
+    "end": 1575042503754,
+    "duration": 311,
+    "pid": 12144,
+    "index": 30
+  },
+  {
+    "name": "Require(27) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-security@2.7.1@egg-security/app/extend/agent.js",
+    "start": 1575042503444,
+    "end": 1575042503470,
+    "duration": 26,
+    "pid": 12144,
+    "index": 31
+  },
+  {
+    "name": "Require(28) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-schedule@3.6.4@egg-schedule/app/extend/agent.js",
+    "start": 1575042503480,
+    "end": 1575042503711,
+    "duration": 231,
+    "pid": 12144,
+    "index": 32
+  },
+  {
+    "name": "Require(29) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/extend/agent.js",
+    "start": 1575042503726,
+    "end": 1575042503735,
+    "duration": 9,
+    "pid": 12144,
+    "index": 33
+  },
+  {
+    "name": "Load extend/context.js",
+    "start": 1575042503754,
+    "end": 1575042504327,
+    "duration": 573,
+    "pid": 12144,
+    "index": 34
+  },
+  {
+    "name": "Require(30) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-security@2.7.1@egg-security/app/extend/context.js",
+    "start": 1575042503763,
+    "end": 1575042503868,
+    "duration": 105,
+    "pid": 12144,
+    "index": 35
+  },
+  {
+    "name": "Require(31) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-jsonp@2.0.0@egg-jsonp/app/extend/context.js",
+    "start": 1575042503868,
+    "end": 1575042503919,
+    "duration": 51,
+    "pid": 12144,
+    "index": 36
+  },
+  {
+    "name": "Require(32) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-i18n@2.1.1@egg-i18n/app/extend/context.js",
+    "start": 1575042503919,
+    "end": 1575042503920,
+    "duration": 1,
+    "pid": 12144,
+    "index": 37
+  },
+  {
+    "name": "Require(33) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-multipart@2.9.1@egg-multipart/app/extend/context.js",
+    "start": 1575042503921,
+    "end": 1575042504286,
+    "duration": 365,
+    "pid": 12144,
+    "index": 38
+  },
+  {
+    "name": "Require(34) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-view@2.1.2@egg-view/app/extend/context.js",
+    "start": 1575042504287,
+    "end": 1575042504303,
+    "duration": 16,
+    "pid": 12144,
+    "index": 39
+  },
+  {
+    "name": "Require(35) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/app/extend/context.js",
+    "start": 1575042504304,
+    "end": 1575042504319,
+    "duration": 15,
+    "pid": 12144,
+    "index": 40
+  },
+  {
+    "name": "Require(36) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg@2.25.0@egg/app/extend/context.js",
+    "start": 1575042504320,
+    "end": 1575042504324,
+    "duration": 4,
+    "pid": 12144,
+    "index": 41
+  },
+  {
+    "name": "Require(37) app/extend/context.js",
+    "start": 1575042504324,
+    "end": 1575042504324,
+    "duration": 0,
+    "pid": 12144,
+    "index": 42
+  },
+  {
+    "name": "Load agent.js",
+    "start": 1575042504327,
+    "end": 1575042504514,
+    "duration": 187,
+    "pid": 12144,
+    "index": 43
+  },
+  {
+    "name": "Require(38) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-security@2.7.1@egg-security/agent.js",
+    "start": 1575042504327,
+    "end": 1575042504328,
+    "duration": 1,
+    "pid": 12144,
+    "index": 44
+  },
+  {
+    "name": "Require(39) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-onerror@2.1.0@egg-onerror/agent.js",
+    "start": 1575042504328,
+    "end": 1575042504328,
+    "duration": 0,
+    "pid": 12144,
+    "index": 45
+  },
+  {
+    "name": "Require(40) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-watcher@3.1.0@egg-watcher/agent.js",
+    "start": 1575042504329,
+    "end": 1575042504348,
+    "duration": 19,
+    "pid": 12144,
+    "index": 46
+  },
+  {
+    "name": "Require(41) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-schedule@3.6.4@egg-schedule/agent.js",
+    "start": 1575042504361,
+    "end": 1575042504364,
+    "duration": 3,
+    "pid": 12144,
+    "index": 47
+  },
+  {
+    "name": "Require(42) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-development@2.4.3@egg-development/agent.js",
+    "start": 1575042504378,
+    "end": 1575042504452,
+    "duration": 74,
+    "pid": 12144,
+    "index": 48
+  },
+  {
+    "name": "Require(43) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-logrotator@3.1.0@egg-logrotator/agent.js",
+    "start": 1575042504453,
+    "end": 1575042504453,
+    "duration": 0,
+    "pid": 12144,
+    "index": 49
+  },
+  {
+    "name": "Require(44) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-webpack@4.5.2@egg-webpack/agent.js",
+    "start": 1575042504454,
+    "end": 1575042504512,
+    "duration": 58,
+    "pid": 12144,
+    "index": 50
+  },
+  {
+    "name": "Require(45) f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg@2.25.0@egg/agent.js",
+    "start": 1575042504513,
+    "end": 1575042504513,
+    "duration": 0,
+    "pid": 12144,
+    "index": 51
+  },
+  {
+    "name": "Before Start in f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-watcher@3.1.0@egg-watcher/lib/init.js:15:14",
+    "start": 1575042504524,
+    "end": 1575042504698,
+    "duration": 174,
+    "pid": 12144,
+    "index": 52
+  },
+  {
+    "name": "Before Start in f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-schedule@3.6.4@egg-schedule/agent.js:12:9",
+    "start": 1575042504525,
+    "end": 1575042504596,
+    "duration": 71,
+    "pid": 12144,
+    "index": 53
+  },
+  {
+    "name": "Before Start in f:/myWeb/git/webFrame/vue/iviewAdmin/node_modules/_egg-development@2.4.3@egg-development/agent.js:12:9",
+    "start": 1575042504525,
+    "end": 1575042504733,
+    "duration": 208,
+    "pid": 12144,
+    "index": 54
+  }
+]

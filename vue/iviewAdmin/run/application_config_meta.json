@@ -1,10 +1,10 @@
 {
   "siteFile": {
-    "/favicon.ico": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js"
+    "/favicon.ico": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js"
   },
   "vuessr": {
-    "layout": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
-    "injectCss": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+    "layout": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
+    "injectCss": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
     "doctype": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr\\config\\config.default.js",
     "manifest": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr\\config\\config.default.js",
     "injectHeadRegex": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr\\config\\config.default.js",
@@ -25,8 +25,8 @@
     "afterRender": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr\\config\\config.default.js"
   },
   "logger": {
-    "consoleLevel": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
-    "dir": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
+    "consoleLevel": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
+    "dir": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
     "encoding": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
     "env": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
     "level": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js",
@@ -43,20 +43,20 @@
     "allowDebugAtProd": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg@2.25.0@egg\\config\\config.default.js"
   },
   "static": {
-    "prefix": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
-    "dir": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
-    "maxAge": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+    "prefix": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
+    "dir": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
+    "maxAge": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
     "dynamic": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
     "preload": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
     "buffer": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
     "maxFiles": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
   },
-  "keys": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
-  "middleware": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
+  "keys": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
+  "middleware": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
   "security": {
     "csrf": {
-      "ignoreJSON": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
-      "cookieName": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
+      "ignoreJSON": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
+      "cookieName": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
       "enable": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
       "type": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
       "useSession": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
@@ -67,10 +67,10 @@
       "refererWhiteList": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     },
     "xframe": {
-      "enable": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
+      "enable": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.default.js",
       "value": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     },
-    "domainWhiteList": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+    "domainWhiteList": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
     "protocolWhiteList": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
     "defaultMiddleware": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
     "hsts": {
@@ -108,7 +108,7 @@
     }
   },
   "view": {
-    "cache": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+    "cache": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
     "root": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
     "defaultExtension": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
     "defaultViewEngine": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
@@ -117,80 +117,80 @@
     }
   },
   "development": {
-    "watchDirs": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-    "ignoreDirs": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+    "watchDirs": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+    "ignoreDirs": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
     "fastReady": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
     "reloadOnDebug": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
     "overrideDefault": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js"
   },
   "logview": {
-    "dir": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+    "dir": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
     "prefix": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-logview@1.0.1@egg-logview\\config\\config.default.js",
     "staticHost": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-logview@1.0.1@egg-logview\\config\\config.default.js"
   },
   "webpack": {
     "webpackConfigList": {
-      "context": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+      "context": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
       "entry": {
-        "admin": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
+        "admin": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
       },
       "output": {
-        "filename": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-        "chunkFilename": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-        "path": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-        "publicPath": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
+        "filename": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+        "chunkFilename": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+        "path": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+        "publicPath": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
       },
       "resolve": {
-        "extensions": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+        "extensions": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
         "alias": {
-          "vue": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-          "asset": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-          "component": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-          "framework": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
+          "vue": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+          "asset": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+          "component": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+          "framework": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
         }
       },
-      "externals": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+      "externals": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
       "resolveLoader": {
-        "modules": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
+        "modules": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
       },
-      "mode": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-      "devtool": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-      "target": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+      "mode": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+      "devtool": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+      "target": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
       "node": {
-        "console": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-        "Buffer": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-        "setImmediate": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
+        "console": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+        "Buffer": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+        "setImmediate": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
       },
       "module": {
-        "rules": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
+        "rules": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
       },
-      "plugins": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+      "plugins": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
       "optimization": {
-        "namedModules": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-        "namedChunks": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+        "namedModules": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+        "namedChunks": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
         "runtimeChunk": {
-          "name": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
+          "name": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
         },
         "splitChunks": {
-          "name": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-          "chunks": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-          "minSize": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-          "minChunks": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+          "name": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+          "chunks": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+          "minSize": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+          "minChunks": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
           "cacheGroups": {
-            "default": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+            "default": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
             "vendors": {
-              "name": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-              "chunks": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-              "minChunks": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-              "test": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
+              "name": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+              "chunks": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+              "minChunks": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+              "test": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
             },
             "styles": {
-              "name": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-              "chunks": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-              "minChunks": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-              "test": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-              "enforce": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
-              "priority": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
+              "name": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+              "chunks": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+              "minChunks": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+              "test": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+              "enforce": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js",
+              "priority": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\config.local.js"
             }
           }
         }

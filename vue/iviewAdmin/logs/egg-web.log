@@ -1,0 +1,26 @@
+2019-11-29 22:52:11,602 INFO 13644 [egg:logger] init all loggers with options: {"dir":"f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"iviewAdmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-29 22:52:11,641 INFO 13644 [egg-multipart] stream mode enable
+2019-11-29 22:52:11,754 INFO 13644 [egg-static] starting static serve /public/ -> f:\myWeb\git\webFrame\vue\iviewAdmin\public
+2019-11-29 22:52:11,759 INFO 13644 [egg-security] use csrf middleware
+2019-11-29 22:52:11,761 INFO 13644 [egg-security] use methodnoallow middleware
+2019-11-29 22:52:11,762 INFO 13644 [egg-security] use noopen middleware
+2019-11-29 22:52:11,764 INFO 13644 [egg-security] use nosniff middleware
+2019-11-29 22:52:11,764 INFO 13644 [egg-security] use xssProtection middleware
+2019-11-29 22:52:11,765 INFO 13644 [egg-security] use dta middleware
+2019-11-29 22:52:11,765 INFO 13644 [egg-security] compose 6 middlewares into one security middleware
+2019-11-29 22:52:11,791 INFO 13644 [egg:core] dump config after load, 16ms
+2019-11-29 22:52:11,809 INFO 13644 [egg-watcher:application] watcher start success
+2019-11-29 22:52:11,828 INFO 13644 [egg:core] dump config after ready, 16ms
+2019-11-29 23:48:31,912 INFO 2684 [egg:logger] init all loggers with options: {"dir":"F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"iviewAdmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-29 23:48:31,937 INFO 2684 [egg-multipart] stream mode enable
+2019-11-29 23:48:32,664 INFO 2684 [egg-static] starting static serve /public/ -> F:\myWeb\git\webFrame\vue\iviewAdmin\public
+2019-11-29 23:48:32,693 INFO 2684 [egg-security] use csrf middleware
+2019-11-29 23:48:32,699 INFO 2684 [egg-security] use methodnoallow middleware
+2019-11-29 23:48:32,700 INFO 2684 [egg-security] use noopen middleware
+2019-11-29 23:48:32,704 INFO 2684 [egg-security] use nosniff middleware
+2019-11-29 23:48:32,704 INFO 2684 [egg-security] use xssProtection middleware
+2019-11-29 23:48:32,704 INFO 2684 [egg-security] use dta middleware
+2019-11-29 23:48:32,704 INFO 2684 [egg-security] compose 6 middlewares into one security middleware
+2019-11-29 23:48:32,728 INFO 2684 [egg:core] dump config after load, 6ms
+2019-11-29 23:48:32,769 INFO 2684 [egg-watcher:application] watcher start success
+2019-11-29 23:48:32,779 INFO 2684 [egg:core] dump config after ready, 8ms

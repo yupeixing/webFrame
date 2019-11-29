@@ -149,7 +149,7 @@
     },
     "static": {
       "prefix": "/public/",
-      "dir": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\public",
+      "dir": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\public",
       "dynamic": true,
       "preload": false,
       "buffer": false,
@@ -157,7 +157,7 @@
       "maxAge": 0
     },
     "view": {
-      "root": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\app\\view",
+      "root": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\app\\view",
       "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
@@ -167,8 +167,8 @@
     },
     "vuessr": {
       "doctype": "<!doctype html>",
-      "layout": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\app\\web\\view\\layout.html",
-      "manifest": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\manifest.json",
+      "layout": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\app\\web\\view\\layout.html",
+      "manifest": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\manifest.json",
       "injectHeadRegex": "/(<\\/head>)/i",
       "injectBodyRegex": "/(<\\/body>)/i",
       "injectCss": true,
@@ -195,17 +195,17 @@
         "match": "/^\\/public\\//"
       },
       "webpackConfigList": {
-        "context": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin",
+        "context": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin",
         "entry": {
           "admin": [
             "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_webpack-hot-middleware@2.25.0@webpack-hot-middleware/client?path=http://127.0.0.1:9000/__webpack_hmr&noInfo=false&reload=false&quiet=false",
-            "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\app\\web\\page\\admin\\index.js"
+            "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\app\\web\\page\\admin\\index.js"
           ]
         },
         "output": {
           "filename": "js/[name].js",
           "chunkFilename": "js/chunk/[name].js",
-          "path": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\public",
+          "path": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\public",
           "publicPath": "/public/"
         },
         "resolve": {
@@ -215,15 +215,15 @@
           ],
           "alias": {
             "vue": "vue/dist/vue.common.js",
-            "asset": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\app\\web\\asset",
-            "component": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\app\\web\\component",
-            "framework": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\app\\web\\framework"
+            "asset": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\app\\web\\asset",
+            "component": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\app\\web\\component",
+            "framework": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\app\\web\\framework"
           }
         },
         "externals": [],
         "resolveLoader": {
           "modules": [
-            "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules",
+            "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules",
             "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_easywebpack@4.12.1@easywebpack\\lib\\node_modules",
             "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_easywebpack-vue@4.5.0@easywebpack-vue\\node_modules"
           ]
@@ -408,15 +408,15 @@
               "map": null,
               "generate": null,
               "sort": null,
-              "baseDir": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin",
+              "baseDir": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin",
               "host": "http://127.0.0.1:9000",
               "proxy": true,
-              "buildPath": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\public",
+              "buildPath": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\public",
               "publicPath": "/public/",
               "localPublicPath": "/public/",
               "assets": false,
               "dllDir": "C:\\Users\\73723\\AppData\\Local\\Temp\\easywebpack\\iviewAdmin\\dev\\dll",
-              "filepath": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\manifest.json",
+              "filepath": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\manifest.json",
               "dllConfig": [
                 {
                   "name": "vendor",
@@ -434,7 +434,15 @@
                 "names": [
                   "vendor"
                 ],
-                "chunks": [],
+                "chunks": [
+                  {
+                    "id": "vendor.js",
+                    "name": "vendor",
+                    "outputName": "js/vendor.js",
+                    "outputPath": "/public/js/vendor.js",
+                    "filepath": "C:\\Users\\73723\\AppData\\Local\\Temp\\easywebpack\\iviewAdmin\\dev\\dll\\file\\js\\vendor.js"
+                  }
+                ],
                 "dll": [
                   {
                     "name": "vendor",
@@ -489,6 +497,286 @@
           {
             "__plugin__": "VueLoaderPlugin",
             "__lable__": "vueloader"
+          },
+          {
+            "opts": {
+              "assets": [
+                {
+                  "id": "vendor.js",
+                  "name": "vendor",
+                  "outputName": "js/vendor.js",
+                  "outputPath": "/public/js/vendor.js",
+                  "filepath": "C:\\Users\\73723\\AppData\\Local\\Temp\\easywebpack\\iviewAdmin\\dev\\dll\\file\\js\\vendor.js"
+                }
+              ]
+            },
+            "__plugin__": "AssetFileWebpackPlugin",
+            "__lable__": "dllAsset"
+          },
+          {
+            "options": {
+              "context": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin",
+              "manifest": {
+                "name": "vendor",
+                "content": {
+                  "./node_modules/_axios@0.17.1@axios/lib/adapters/xhr.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/adapters/xhr.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_webpack@4.28.4@webpack/buildin/global.js": {
+                    "id": "./node_modules/_webpack@4.28.4@webpack/buildin/global.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_console-browserify@1.2.0@console-browserify/index.js": {
+                    "id": "./node_modules/_console-browserify@1.2.0@console-browserify/index.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_util@0.11.1@util/util.js": {
+                    "id": "./node_modules/_util@0.11.1@util/util.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_process@0.11.10@process/browser.js": {
+                    "id": "./node_modules/_process@0.11.10@process/browser.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_util@0.11.1@util/support/isBufferBrowser.js": {
+                    "id": "./node_modules/_util@0.11.1@util/support/isBufferBrowser.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_inherits@2.0.3@inherits/inherits_browser.js": {
+                    "id": "./node_modules/_inherits@2.0.3@inherits/inherits_browser.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_assert@1.5.0@assert/assert.js": {
+                    "id": "./node_modules/_assert@1.5.0@assert/assert.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_object-assign@4.1.1@object-assign/index.js": {
+                    "id": "./node_modules/_object-assign@4.1.1@object-assign/index.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_vue-router@3.1.3@vue-router/dist/vue-router.esm.js": {
+                    "id": "./node_modules/_vue-router@3.1.3@vue-router/dist/vue-router.esm.js",
+                    "buildMeta": {
+                      "exportsType": "namespace",
+                      "providedExports": [
+                        "default"
+                      ]
+                    }
+                  },
+                  "./node_modules/_vuex@3.1.2@vuex/dist/vuex.esm.js": {
+                    "id": "./node_modules/_vuex@3.1.2@vuex/dist/vuex.esm.js",
+                    "buildMeta": {
+                      "exportsType": "namespace",
+                      "providedExports": [
+                        "default",
+                        "Store",
+                        "install",
+                        "mapState",
+                        "mapMutations",
+                        "mapGetters",
+                        "mapActions",
+                        "createNamespacedHelpers"
+                      ]
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/index.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/index.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/axios.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/axios.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/utils.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/utils.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/helpers/bind.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/helpers/bind.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_is-buffer@1.1.6@is-buffer/index.js": {
+                    "id": "./node_modules/_is-buffer@1.1.6@is-buffer/index.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/core/Axios.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/core/Axios.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/defaults.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/defaults.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/helpers/normalizeHeaderName.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/helpers/normalizeHeaderName.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_vue@2.6.10@vue/dist/vue.runtime.esm.js": {
+                    "id": "./node_modules/_vue@2.6.10@vue/dist/vue.runtime.esm.js",
+                    "buildMeta": {
+                      "exportsType": "namespace",
+                      "providedExports": [
+                        "default"
+                      ]
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/core/settle.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/core/settle.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/core/createError.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/core/createError.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/core/enhanceError.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/core/enhanceError.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/helpers/buildURL.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/helpers/buildURL.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/helpers/parseHeaders.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/helpers/parseHeaders.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/helpers/isURLSameOrigin.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/helpers/isURLSameOrigin.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/helpers/btoa.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/helpers/btoa.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/helpers/cookies.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/helpers/cookies.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/core/InterceptorManager.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/core/InterceptorManager.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/core/dispatchRequest.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/core/dispatchRequest.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/core/transformData.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/core/transformData.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/cancel/isCancel.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/cancel/isCancel.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/helpers/isAbsoluteURL.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/helpers/isAbsoluteURL.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/helpers/combineURLs.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/helpers/combineURLs.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/cancel/Cancel.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/cancel/Cancel.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/cancel/CancelToken.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/cancel/CancelToken.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_axios@0.17.1@axios/lib/helpers/spread.js": {
+                    "id": "./node_modules/_axios@0.17.1@axios/lib/helpers/spread.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_vuex-router-sync@5.0.0@vuex-router-sync/index.js": {
+                    "id": "./node_modules/_vuex-router-sync@5.0.0@vuex-router-sync/index.js",
+                    "buildMeta": {
+                      "providedExports": true
+                    }
+                  },
+                  "./node_modules/_vue-i18n@8.15.1@vue-i18n/dist/vue-i18n.esm.js": {
+                    "id": "./node_modules/_vue-i18n@8.15.1@vue-i18n/dist/vue-i18n.esm.js",
+                    "buildMeta": {
+                      "exportsType": "namespace",
+                      "providedExports": [
+                        "default"
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "__plugin__": "DllReferencePlugin",
+            "__lable__": "vendorDllReference"
           }
         ],
         "optimization": {
@@ -526,7 +814,7 @@
     "logview": {
       "prefix": "__logs",
       "staticHost": "https://unpkg.cnpmjs.org",
-      "dir": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\logs"
+      "dir": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\logs"
     },
     "env": "local",
     "name": "iviewAdmin",
@@ -614,9 +902,9 @@
         }
       }
     },
-    "baseDir": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin",
+    "baseDir": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin",
     "HOME": "C:\\Users\\73723",
-    "rundir": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\run",
+    "rundir": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\run",
     "dump": {
       "ignore": "<Set>"
     },
@@ -648,7 +936,7 @@
       "onerror": "<Function onerror>"
     },
     "logger": {
-      "dir": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\logs",
+      "dir": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\logs",
       "encoding": "utf8",
       "env": "local",
       "level": "INFO",
@@ -873,7 +1161,7 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\plugin.js",
+      "from": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\plugin.js",
       "path": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr",
       "version": "3.3.1"
     },
@@ -884,7 +1172,7 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\plugin.local.js",
+      "from": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\plugin.local.js",
       "path": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-cors@2.2.3@egg-cors",
       "version": "2.2.3"
     },
@@ -897,7 +1185,7 @@
       "env": [
         "local"
       ],
-      "from": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\plugin.local.js",
+      "from": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\plugin.local.js",
       "path": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-webpack@4.5.2@egg-webpack",
       "version": "4.5.2"
     },
@@ -910,7 +1198,7 @@
       "env": [
         "local"
       ],
-      "from": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\plugin.local.js",
+      "from": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\plugin.local.js",
       "path": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-webpack-vue@2.0.2@egg-webpack-vue",
       "version": "2.0.2"
     },
@@ -923,7 +1211,7 @@
       "name": "logview",
       "dependencies": [],
       "optionalDependencies": [],
-      "from": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\plugin.local.js",
+      "from": "F:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\config\\plugin.local.js",
       "path": "f:\\myWeb\\git\\webFrame\\vue\\iviewAdmin\\node_modules\\_egg-logview@1.0.1@egg-logview",
       "version": "1.0.1"
     }
