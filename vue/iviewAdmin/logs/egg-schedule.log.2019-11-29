@@ -1,0 +1,21 @@
+2019-11-29 22:52:11,640 INFO 13644 [egg-schedule]: register schedule f:\myWeb\git\webFrame\vue\iviewAdmin\node_modules\_egg-multipart@2.9.1@egg-multipart\app\schedule\clean_tmpdir.js
+2019-11-29 22:52:11,640 INFO 13644 [egg-schedule]: register schedule f:\myWeb\git\webFrame\vue\iviewAdmin\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2019-11-29 22:52:11,640 INFO 13644 [egg-schedule]: register schedule f:\myWeb\git\webFrame\vue\iviewAdmin\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2019-11-29 22:52:11,840 INFO 1820 [Timer] f:\myWeb\git\webFrame\vue\iviewAdmin\node_modules\_egg-multipart@2.9.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 20268163ms at 2019-11-30 04:30:00.003
+2019-11-29 22:52:11,841 INFO 1820 [Timer] f:\myWeb\git\webFrame\vue\iviewAdmin\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 4068159ms at 2019-11-30 00:00:00.000
+2019-11-29 22:52:11,842 INFO 1820 [Timer] f:\myWeb\git\webFrame\vue\iviewAdmin\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 4069159ms at 2019-11-30 00:00:01.001
+2019-11-29 23:48:31,936 INFO 2684 [egg-schedule]: register schedule f:\myWeb\git\webFrame\vue\iviewAdmin\node_modules\_egg-multipart@2.9.1@egg-multipart\app\schedule\clean_tmpdir.js
+2019-11-29 23:48:31,937 INFO 2684 [egg-schedule]: register schedule f:\myWeb\git\webFrame\vue\iviewAdmin\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2019-11-29 23:48:31,937 INFO 2684 [egg-schedule]: register schedule f:\myWeb\git\webFrame\vue\iviewAdmin\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2019-11-29 23:48:32,786 INFO 12144 [Timer] f:\myWeb\git\webFrame\vue\iviewAdmin\node_modules\_egg-multipart@2.9.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 16887216ms at 2019-11-30 04:30:00.002
+2019-11-29 23:48:32,787 INFO 12144 [Timer] f:\myWeb\git\webFrame\vue\iviewAdmin\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 687213ms at 2019-11-30 00:00:00.000
+2019-11-29 23:48:32,787 INFO 12144 [Timer] f:\myWeb\git\webFrame\vue\iviewAdmin\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 688213ms at 2019-11-30 00:00:01.000
+2019-11-30 09:11:59,514 INFO 2684 [Job#15750763195112961211992945001] f:\myWeb\git\webFrame\vue\iviewAdmin\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js executing by app
+2019-11-30 09:11:59,522 INFO 2684 [Job#15750763195112961211992945001] f:\myWeb\git\webFrame\vue\iviewAdmin\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js execute succeed, used 7ms
+2019-11-30 09:11:59,522 INFO 2684 [Job#15750763195182961212059695001] f:\myWeb\git\webFrame\vue\iviewAdmin\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2019-11-30 09:11:59,526 INFO 2684 [Job#15750763195262961212133362001] f:\myWeb\git\webFrame\vue\iviewAdmin\node_modules\_egg-multipart@2.9.1@egg-multipart\app\schedule\clean_tmpdir.js executing by app
+2019-11-30 09:11:59,530 INFO 2684 [Job#15750763195262961212133362001] f:\myWeb\git\webFrame\vue\iviewAdmin\node_modules\_egg-multipart@2.9.1@egg-multipart\app\schedule\clean_tmpdir.js execute succeed, used 4ms
+2019-11-30 09:11:59,534 INFO 2684 [Job#15750763195182961212059695001] f:\myWeb\git\webFrame\vue\iviewAdmin\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 12ms
+2019-11-30 09:11:59,518 INFO 12144 [Timer] f:\myWeb\git\webFrame\vue\iviewAdmin\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 53280488ms at 2019-12-01 00:00:00.006
+2019-11-30 09:11:59,525 INFO 12144 [Timer] f:\myWeb\git\webFrame\vue\iviewAdmin\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 53281482ms at 2019-12-01 00:00:01.007
+2019-11-30 09:11:59,536 INFO 12144 [Timer] f:\myWeb\git\webFrame\vue\iviewAdmin\node_modules\_egg-multipart@2.9.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 69480474ms at 2019-12-01 04:30:00.010

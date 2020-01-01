@@ -1,0 +1,60 @@
+.home{
+    font-size: 12px;
+}
+.home .city{
+    text-align: center;
+    font-size: 14px;
+    color: #07C160;
+}
+.home .key{
+    padding-left:0 ;
+    padding-right: 0;
+}
+.home .key .van-search__content{
+    border-radius: 20px;
+}
+.home .message{
+    text-align: center;
+    font-size: 18px;
+    color: #07C160;
+}
+.home .swiper-container{
+    border-radius: 20px;
+    margin: 0 10px;
+}
+.home .swiper-pagination-bullet-active{
+    background: #07C160;
+}
+.home .items{
+    margin-top:10px;
+}
+.home .item{
+    text-align: center;
+}
+.home .item .active{
+    color: #07C160;
+}
+.home .card{
+    margin-top: 10px;
+    color: #fff;
+}
+.home .card .item{
+    height: 80px;
+    border-radius: 10px;
+    background-color: #FE768A;
+    padding: 10px;
+}
+.home .card .item .title{
+    font-size: 14px;
+    text-align: left;
+}
+.home .card .item .subhead{
+    text-align: left;
+    opacity: 0.6;
+}
+.home .card .two{
+    background-color: #FDD58D;
+}
+.home .card .three{
+    background-color: #76AFFE;
+}
